@@ -41,7 +41,7 @@ modelSrcipt.src = '/src/components/model_tesla.js';
 
 - 拉取本项目
 - 安装依赖： `npm install` 
-- 运行 demo： `npm run demo`
+- 运行 demo： `npm run dev`
 - 查看 demo： `http://localhost:3000`
 
 ## 参考
